@@ -6,7 +6,7 @@
 
 The To-Do List Manager is a personalized task management tool allowing users to keep track of their daily objectives. After securely logging in, users can add new tasks, visually strike through completed tasks, and remove tasks from the list. 
 
-![todo list](public/img/todo.jpeg)
+![to do list](<public/img/to do.png>)
 
 ## Technology Stack 🛠️
 
