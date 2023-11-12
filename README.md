@@ -42,6 +42,3 @@ The To-Do List Manager is a personalized task management tool allowing users to 
 - Mastered the integration of MongoDB with Node.js for robust data management in a dynamic web application.
 - Learned the intricacies of creating and managing user sessions in Express.js.
 - Enhanced front-end skills in creating intuitive and user-friendly interfaces with CSS and JavaScript.
-
-
-# To-Do-List-FullStack
